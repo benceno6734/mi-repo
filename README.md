@@ -1,2 +1,2 @@
 # mi-repo
-apa la papa
+he aquí los humildes inicios del mejor programador de la historia
